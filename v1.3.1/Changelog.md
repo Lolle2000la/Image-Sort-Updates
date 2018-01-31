@@ -1,2 +1,2 @@
 # Changelog
-* (Fixed) Weird behaviour when moving through images
+* (Fixed) Weird behaviour when moving through folders
