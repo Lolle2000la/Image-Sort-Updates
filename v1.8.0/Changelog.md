@@ -1,0 +1,2 @@
+Changelog:
+* Reworked: Search function
